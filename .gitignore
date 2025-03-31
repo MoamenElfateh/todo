@@ -1,0 +1,68 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/.dart_tool/
+
+# Android
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/key.properties
+android/.dart_tool/
+
+# Web
+test/
+web/
+
+# Windows
+windows/CMakeLists.txt
+windows/flutter/ephemeral/
+
+# macOS
+macos/.dart_tool/
+macos/Flutter/ephemeral/
+macos/CMakeLists.txt
+
+# Linux
+linux/flutter/ephemeral/
+linux/CMakeLists.txt
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA settings
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Miscellaneous
+*.log
+*.lock
+pubspec.lock
+
+# Generated files
+coverage/
+*.dart.js
+debug/
+profile/
+release/
+
+# Firebase/Google Services
+google-services.json
+firebase.json
+*.keystore
+
+# Other IDEs and editors
+*.swp
+*.swo
+*.swn
