@@ -1,16 +1,25 @@
-# todoey_flutter
+# ToDo
 
-A new Flutter project.
+A simple To-Do application built with Flutter. It allows users to add, update, delete, and mark tasks as completed.
 
-## Getting Started
+# App Screenshots
 
-This project is a starting point for a Flutter application.
+|                                            Current Screen                                            |                                            Add task screen                                            |
+| :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+| ![](https://raw.githubusercontent.com/MoamenElfateh/todo/master/app-screen-shots/current-screen.jpg) | ![](https://raw.githubusercontent.com/MoamenElfateh/todo/master/app-screen-shots/add-task-screen.jpg) |
 
-A few resources to get you started if this is your first Flutter project:
+### Done Task
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Done Screen](https://raw.githubusercontent.com/MoamenElfateh/todo/master/app-screen-shots/done-task.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features
+
+> Add Task: Add a new task with a description.
+
+> Update Task: Edit task description and completion status.
+
+> Delete Task: Remove tasks from the list.
+
+> Mark as Completed: Mark tasks as completed with a checkmark.
+
+> Task List: View all tasks with descriptions and completion status.
