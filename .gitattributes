@@ -1,0 +1,5 @@
+*.dart linguist-detectable
+*.cpp linguist-ignore
+*.h linguist-ignore
+*.m linguist-ignore
+*.mm linguist-ignore
