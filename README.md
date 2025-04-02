@@ -10,7 +10,9 @@ A simple To-Do application built with Flutter. It allows users to add, update, d
 
 ### Done Task
 
-![Done Screen](https://raw.githubusercontent.com/MoamenElfateh/todo/master/app-screen-shots/done-task.jpg)
+|                                            Done Task                                            |
+| :---------------------------------------------------------------------------------------------: |
+| ![](https://raw.githubusercontent.com/MoamenElfateh/todo/master/app-screen-shots/done-task.jpg) |
 
 # Features
 
